@@ -26,6 +26,7 @@ const useStyles = makeStyles((theme) => ({
     maxHeight: "97vh",
     position: "absolute",
     top: "0px",
+
     left: "0px",
     right: "0px",
     bottom: "0px",
